@@ -1,0 +1,98 @@
+sp2_names,substrate
+"a0014	Hpg|Cl2-Hpg	CAE53350.1	A1	BGC0000440	teicoplanin",Hpg|Cl2-Hpg
+"a0017	bOH-Tyr	CAC48360.1	A2	BGC0000311	balhimycin",bOH-Tyr
+"a0031	OH-Orn	AAX16360.1	A4	not_in_mibig	pyoverdine",OH-Orn
+"a0034	OH-Asn	AAZ23075.1	A3	BGC0000291	A54145	NOTE:some_disagreement_whether_Asn_or_OH-Asn_is_activated",OH-Asn
+"a0044	OH-Orn	AAX16297.1	A4	not_in_mibig	pyoverdine",OH-Orn
+"a0046	OH-Orn	AAX16361.1	A2	not_in_mibig    pyoverdine",OH-Orn
+"a0056	Hpg|Cl2-Hpg	CAE53352.1	A1	BGC0000440	teicoplanin",Hpg|Cl2-Hpg
+"a0057	Hpg|Cl2-Hpg	CAE53352.1	A2	BGC0000440	teicoplanin",Hpg|Cl2-Hpg
+"a0058	Tyr|bOH-Tyr	CAE53352.1	A3	BGC0000440	teicoplanin",Tyr|bOH-Tyr
+"a0078	Hpg|Cl2-Hpg	AAK81826.1	A1	BGC0000326	complestatin",Hpg|Cl2-Hpg
+"a0079	Hpg|Cl2-Hpg	AAK81826.1	A2	BGC0000326	complestatin",Hpg|Cl2-Hpg
+"a0093	di-OH-Bz	AAC44632.1	A1	not_in_mibig	enterobactin_like_siderophore",di-OH-Bz
+"a0098	4OH-5OH-Orn	EPE34341.1	A1	BGC0001035	pneumocandin",4OH-5OH-Orn
+"a0102	3OH-Gln	EPE34341.1	A5	BGC0001035	pneumocandin",3OH-Gln
+"a0103	Pro|4Me-Pro	EPE34341.1	A6	BGC0001035	pneumocandin	NOTE:subsequent_hydroxylation_at_C3",Pro|4Me-Pro
+"a0120	NMe-Gly	simA_not_in_genbank	A7	BGC0000334	cyclosporin	NOTE:producer_Tolypocladium_inflatum",NMe-Gly
+"a0204	Asp|bMe-Asp	AEA30272.1	A3	BGC0000429	skyllamycin",Asp|bMe-Asp
+"a0234	Hpg|Cl2-Hpg	CAB38518.1	A6	BGC0000315	calcium_dependent_antibiotic",Hpg|Cl2-Hpg
+"a0239	Pro|4Me-Pro	AAO23334.1	A3	BGC0000397	nostocyclopeptide",Pro|4Me-Pro
+"a0243	Fo-OH-Orn	BAH31686.1	A1	BGC0000371	heterobactin",Fo-OH-Orn
+"a0245	OH-Orn	BAH31686.1	A3	BGC0000371	heterobactin",OH-Orn
+"a0246	OH-Orn	BAH31686.1	A4	BGC0000371	heterobactin",OH-Orn
+"a0249	OH-Orn	BAH33409.1	A3	BGC0000371	heterobactin",OH-Orn
+"a0276	Trp|6Cl-Trp	BAP16684.1	A1	BGC0000376	jbir-34_jbir-35",Trp|6Cl-Trp
+"a0278	aMe-Ser	BAP16693.1	A1	BGC0000376	jbir-34_jbir-35",aMe-Ser
+"a0280	6Cl-Hic	BAP16689.1	A1	BGC0000376	jbir-34_jbir-35",6Cl-Hic
+"a0316	gOH-Val	YP_631961.1	A3	BGC0000393	myxoprincomide",gOH-Val
+"a0335	NOH-Ala	AGZ15458.1	A2	BGC0001036	polyoxypeptin	NOTE:has_epimerase_domain",NOH-Ala
+"a0337	3OH-3Me-Pro	AGZ15459.1	A2	BGC0001036	polyoxypeptin	NOTE:has_epimerase_domain",3OH-3Me-Pro
+"a0338	NOH-Val	AGZ15460.1	A1	BGC0001036	polyoxypeptin",NOH-Val
+"a0339	3OH-Leu	AGZ15476.1	A1	BGC0001036	polyoxypeptin",3OH-Leu
+"a0343	Fo-OH-Orn	CBG75492.1	A1	BGC0000423	scabichelin	NOTE:final_product_n_methylated",Fo-OH-Orn
+"a0345	OH-Orn	CBG75492.1	A3	BGC0000423	scabichelin	NOTE:final_product_n_methylated",OH-Orn
+"a0347	OH-Orn	CBG75492.1	A5	BGC0000423	scabichelin",OH-Orn
+"a0413	ddh-Arg|3Me-Tyr	BAO84866.1	A1	BGC0000414	quinocarcin",ddh-Arg|3Me-Tyr
+"a0414	3Me-Tyr	BAO84868.1	A1	BGC0000414	quinocarcin",3Me-Tyr
+"a0437	OH-Orn	AAX16325.1	A2	not_in_mibig	pyoverdine",OH-Orn
+"a0443	Hpg|Cl2-Hpg	AAT09804.1	A1	BGC0000395	nocardicin_a",Hpg|Cl2-Hpg
+"a0444	Hpg|Cl2-Hpg	AAT09804.1	A3	BGC0000395	nocardicin_a",Hpg|Cl2-Hpg
+"a0482	di-OH-Bz|Sal	AAD55799.1	A1	not_in_mibig	pyochelin",di-OH-Bz|Sal
+"a0502	OH-Orn	AAX16296.1	A2	not_in_mibig	pyoverdine",OH-Orn
+"a0551	Hpg|Cl2-Hpg	CAC48361.1	A1	BGC0000311	balhimycin",Hpg|Cl2-Hpg
+"a0552	Hpg|Cl2-Hpg	CAC48361.1	A2	BGC0000311	balhimycin",Hpg|Cl2-Hpg
+"a0553	bOH-Tyr	CAC48361.1	A3	BGC0000311	balhimycin",bOH-Tyr
+"a0580	OH-Orn	AAX16327.1	A3	not_in_mibig	pyoverdine",OH-Orn
+"a0587	Glu|3Me-Glu	CAD55498.1	A1	BGC0000315	calcium_dependent_antibiotic",Glu|3Me-Glu
+"a0590	3Me-Asp	CAD29798.1	A2	BGC0001015	microcystin",3Me-Asp
+"a0592	Pro|4Me-Pro	AAF15891.2	A3	BGC0001028	nostopeptolide",Pro|4Me-Pro
+"a0601	Gly|NMe-Gly	CAA82227.1	A7	not_in_mibig	cyclosporin",Gly|NMe-Gly
+"a0622	di-OH-Bz|Sal	BAC12912.1	A1	not_in_mibig	bacillibactin-like_siderophore",di-OH-Bz|Sal
+"a0625	Hpg|Cl2-Hpg	AAM80537.1	A1	BGC0000290	A47934",Hpg|Cl2-Hpg
+"a0626	Hpg|Cl2-Hpg	AAM80537.1	A2	BGC0000290	A47934",Hpg|Cl2-Hpg
+"a0628	Hpg|Cl2-Hpg	AAK81824.1	A1	BGC0000326	complestatin",Hpg|Cl2-Hpg
+"a0659	3Me-Asp	AAO64403.1	A2	not_in_mibig	nodularin",3Me-Asp
+"a0679	di-OH-Bz	AAG00564.1	A1	not_in_mibig	vibriobactin",di-OH-Bz
+"a0690	di-OH-Bz|Sal	AAA93464.1	A1	not_in_mibig	yersiniabactin",di-OH-Bz|Sal
+"a0692	3Me-Asp	BAA83993.1	A2	BGC0001017	microcystin",3Me-Asp
+"a0696	Asp|NMe-Asp	AAO62587.1	A2	BGC0001016	microcystin",Asp|NMe-Asp
+"a0698	Fo-OH-Orn	YP_702283.1	A2	BGC0000417	rhodochelin",Fo-OH-Orn
+"a0701	Hpg|Cl2-Hpg	AAK81825.1	A1	BGC0000326	complestatin",Hpg|Cl2-Hpg
+"a0710	di-OH-Bz	AAG31128.1	A1	BGC0001345	myxochelin",di-OH-Bz
+"a0713	bOH-Tyr	AHF20582.1	A2	BGC0000418	ristocetin",bOH-Tyr
+"a0715	bOH-Tyr	AHF20584.1	A3	BGC0000418	ristocetin",bOH-Tyr
+"a0729	Hpg|Cl2-Hpg	CAA11795.1	A1	BGC0000455	vancomycin",Hpg|Cl2-Hpg
+"a0730	Hpg|Cl2-Hpg	CAA11795.1	A2	BGC0000455	vancomycin",Hpg|Cl2-Hpg
+"a0731	bOH-Tyr|Tyr	CAA11795.1	A3	BGC0000455	vancomycin",bOH-Tyr|Tyr
+"a0734	Orn|OH-Orn	CAB53322.1	A1	BGC0000325	coelichelin",Orn|OH-Orn
+"a0736	Hpg|2Cl-Hpg	AAK81827.1	A1	BGC0000326	complestatin",Hpg|2Cl-Hpg
+"a0741	bOH-Tyr|Tyr	CAA11794.1	A2	BGC0000455	vancomycin",bOH-Tyr|Tyr
+"a0743	bOH-Tyr|Tyr	CAC48369.1	A1	BGC0000311	balhimycin",bOH-Tyr|Tyr
+"a0745	di-OH-Bz|Sal	CAA33158.1	A1	not_in_mibig	enterobactin",di-OH-Bz|Sal
+"a0746	di-OH-Bz|Sal	AAO69874.1	A1	not_in_mibig	enterobactin",di-OH-Bz|Sal
+"a0779	Hpg|Cl2-Hpg	AAM80539.1	A1	BGC0000290	A47934",Hpg|Cl2-Hpg
+"a0793	bOH-Tyr	AIG79241.1	A3	BGC0000419	ristomycin_A",bOH-Tyr
+"a0795	bOH-Tyr	AIG79243.1	A2	BGC0000419	ristomycin_A",bOH-Tyr
+"b0068	OH-Orn	CAJ96470.1	A1	BGC0000330	cupriachelin",OH-Orn
+"b0077	4Me-Pro	AFT91378.1	A6	BGC0000338	echinocandin_b",4Me-Pro
+"b0108	bMe-Phe	AEH41793.1	A3	BGC0000374	hormaomycin",bMe-Phe
+"b0110	bMe-Phe	AEH41794.1	A1	BGC0000374	hormaomycin",bMe-Phe
+"b0202	OH-Asp	AED90003.1	A3	BGC0000443	thanamycin",OH-Asp
+"b0524	di-OH-Bz	CDG76957.1	A1	BGC0000446	tilivalline",di-OH-Bz
+"b0234	4OH-Pro	AGN74886.1	A1	BGC0000459	griseoviridin",4OH-Pro
+"b0263	3Me-Tyr	ADY76664.1	A1	BGC0000950	napsamycin",3Me-Tyr
+"b0526	3Me-Tyr	ADY76674.1	A1	BGC0000950	napsamycin",3Me-Tyr
+"b0527	Met	ADY76684.1	A1	BGC0000950	napsamycin",Met
+"b0281	Met	ABC36785.1	A1	BGC0000964	burkholdac",Met
+"b0306	Me-bAla	ABM21572.1	A1	BGC0000975	cryptophyicin	NOTE:no_inline_methlation_domain",Me-bAla
+"b0534	di-OH-Bz	ABS75234.1	A1	BGC0001185	bacillibactin",di-OH-Bz
+"b0464	OH-Asn	WP_030498977.1	A1	BGC0001327	rakicidin",OH-Asn
+"b0467	OH-Asn	EWM63007.1	A1	BGC0001328	rakicidin",OH-Asn
+"b0493	di-OH-Bz	AQZ26587.1	A1	BGC0001437	obafluorin",di-OH-Bz
+"b0497	Me-Dpr	ARU08063.1	A1	BGC0001448	malacidin",Me-Dpr
+"b0498	3Me-Asp	ARU08073.1	A1	BGC0001448	malacidin",3Me-Asp
+"b0501	OH-Asp	ARU08074.1	A2	BGC0001448	malacidin",OH-Asp
+"b0505	3Me-Asp	ARU08074.1	A5	BGC0001448	malacidin",3Me-Asp
+"b0507	3Me-Pro	ARU08075.1	A2	BGC0001448	malacidin",3Me-Pro
+"b0509	3Me-Pro	AEO57481.1	A1	BGC0001449	UCS1025A",3Me-Pro
