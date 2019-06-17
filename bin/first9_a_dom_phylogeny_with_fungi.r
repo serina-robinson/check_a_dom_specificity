@@ -60,7 +60,7 @@ writeXStringSet(checkvitt, "~/Documents/Wageningen_UR/github/adenylpred_dev/data
 # write_csv(euk, "datafungal_sequences.csv")
 
 # Make a phylogenetic tree
-pl <- ggtree(phylo_fin) #layout = "circular", size = 2)
+pl <- ggtree(phylo_fin, layout = "circular", size = 0.5)
 #tofix <- pl$data$label[!pl$data$isTip]
 #tofix <- gsub("X", "", tofix)    
 # tofix <- paste0(word(tofix, sep = "_", 1), ".", word(tofix, sep = "_", 2))
@@ -113,18 +113,18 @@ pal2 <- c(pal1, "#F781BF", "blue1", "darkorchid1", "navy", #"black",
 palette(pal2)
 pal2
 
-pdf("data/sp2_9extracted_tree_with_taxonomy_legend.pdf", width = 20, height = 40)
+pdf("data/sp2_9extracted_tree_with_taxonomy_legend_none.pdf", width = 15, height = 15)
 par(mar=c(0.001,0.001,0.001,0.001))
 ptree <- p2 +
   aes(color = grp) +
   scale_color_manual(values = pal1) +
   # ggplot2::xlim(NA, 4) +
-  geom_tippoint(aes(x = 4, shape = kingdom)) +
+  geom_tippoint(aes(x = 6, shape = kingdom),  size = 0.5) +
   scale_shape_manual(values=c(15, 16, 17, 18)) +
   geom_nodepoint(size = p2$data$size[!p2$data$isTip], color = "gray40") +
-  geom_tiplab(aes(label = label), size = 1) +
+  geom_tiplab2(aes(label = label), size = 0.5) +
   #aes(label = word(label, sep = "_", 2)), size = 1.5) +
-  theme(legend.position = "right") +
+  theme(legend.position = "none") +
   geom_treescale(offset = 1, fontsize = 4, x=3, y=1)
 
 ptree
