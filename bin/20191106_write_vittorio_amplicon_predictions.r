@@ -7,7 +7,7 @@ setwd("~/Documents/Wageningen_UR/github/check_a_dom_specificity/")
 # Read in the data 
 aa2 <- readAAStringSet("~/Documents/Wageningen_UR/github/adenylpred_dev/data/vittorio_amplicons_aligned_NRPS_Adomains_Xsremoved.fasta")
 names(aa2)
-aa2[1]
+length(aa2)
 
 # Read in the HMM Aligned
 aa_al <- readAAStringSet("~/Documents/Wageningen_UR/github/adenylpred_dev/data/vittorio_mod_hmm_aligned.fasta")
