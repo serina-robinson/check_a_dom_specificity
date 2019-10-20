@@ -19,6 +19,7 @@ names(sp2) <- gsub("\\\t", "_", names(sp2))
 phylo_fin <- treeio::read.newick("data/7674_sp2_and_antismashdb_v2_60_seqs_154.nwk")
 pl <- ggtree(phylo_fin, layout = "circular", size = 0.25)
 length(pl$data$label[pl$data$isTip])
+
 # Create annotation data frame
 dd <- data.frame(label = pl$data$label,
                  grp = as.character(ifelse(pl$data$isTip, word(pl$data$label, 2, sep = "_"), "UNKNOWN")),
@@ -50,7 +51,10 @@ dd_annot$class[is.na(dd_annot$class)] <- "Unknown_taxonomy_or_antiSMASHdb_v2_ent
 table(dd_annot$class)
 
 sort(table(dd_annot$grp), decreasing = T)
-head(dd_annot)
+
+dd_towrite <- 
+
+
 length(table(dd_annot$class))
 # unique(dd_annot$broad_grp[dd_annot$tipsize != 0.00001])
 
@@ -69,6 +73,7 @@ pal2
                     # "deeppink2", "lightslateblue", "darkorchid1",
                     # "lightblue2", "darkseagreen1", "black", "palevioletred4", "gray75", "steelblue4")
 pal2
+
 #pal2[3] <- 
 
 #           "dodgerblue", "plum1", "darkgreen",
@@ -79,6 +84,7 @@ pal2
 
 # Make a tree by coloring the branches of interest
 p2 <- pl %<+% dd_annot
+
 #pal2[levels(as.factor(p2$data$broad_grp)) == "UNKNOWN"] <- "gray75"
 #pal2[levels(as.factor(p2$data$broad_grp)) == "Tyr"] <- "blue3"
 
